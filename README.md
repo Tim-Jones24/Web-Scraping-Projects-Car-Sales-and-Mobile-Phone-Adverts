@@ -29,5 +29,5 @@ This project demonstartes web scraping techniques using Python to extract and sa
 * Requests: Sending HTTP requests to fetch web pages.
 
 ####  Key Insights and Capabilities:
-* The scripts allowed seamless scarping of structured data across multiple pages.
+* The scripts allowed seamless scraping of structured data across multiple pages.
 * Data is saved in user-friendly formats for further analysis or visualization.
