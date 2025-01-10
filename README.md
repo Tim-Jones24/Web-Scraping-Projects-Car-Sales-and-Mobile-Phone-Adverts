@@ -1,5 +1,5 @@
 # Web Scraping Projects: Car Sales and Mobile Phone Adverts
-This repository contains two web scraping projects that extract data from an e-commerce platform:
+This project contains two web scraping projects that extract data from an e-commerce platform:
 1. Car Sales Data (saved to Excel).
 2. Mobile Phone Adverts (saved to CSV).
 
